@@ -2,3 +2,11 @@ body {
   height: 100% background: rgb(2, 0, 36);
   background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(121, 0, 255, 1) 0%, rgba(0, 212, 255, 1) 100%);
 }
+
+.center {
+  text-align: center;
+}
+
+.heading_section_subtext.center {
+  text-align: center;
+}
