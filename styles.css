@@ -10,3 +10,7 @@ body {
 .heading_section_subtext.center {
   text-align: center;
 }
+
+.heading_section {
+  color: #FDF5CA;
+}
